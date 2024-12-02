@@ -50,6 +50,8 @@ The application will be available at `http://localhost:9122`
 2. Click the "Convert" button
 3. View and copy the formatted JSON output from the right panel
 
+https://github.com/user-attachments/assets/0b06cea7-113d-4ccc-aca0-9471ad167bee
+
 ## Note
 
 Ensure that Ollama is running with the LLama2 model before using the converter. All text processing is done locally on your device.
